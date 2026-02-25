@@ -1,0 +1,5 @@
+# Runtime dependencies for blackbox_decode_gui.py
+# (tkinter is part of the standard library and does not appear here)
+
+# No third-party packages are required – only Python standard library modules
+# (csv, math, os, pathlib, subprocess, sys, threading, tkinter) are used.
